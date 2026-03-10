@@ -1,0 +1,12 @@
+System Architecture
+
+Sensors
+(IR Sensors, Ultrasonic Sensor)
+        ↓
+Arduino Controller
+        ↓
+Motor Driver (L298N)
+        ↓
+DC Motors
+        ↓
+Robot Movement
